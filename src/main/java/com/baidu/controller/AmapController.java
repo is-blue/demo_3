@@ -27,4 +27,9 @@ public class AmapController {
         }
     }
 
+
+    public void lxz(){
+        System.out.println("lxzstc");
+    }
+
 }
